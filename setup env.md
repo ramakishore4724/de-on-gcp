@@ -39,3 +39,8 @@ Open New Terminal
 degcp-venv\Scripts\Activate.ps1
 # Once venv is activated, then run
 pip install google-cloud-storage
+pip install pandas
+pip install gcsfs
+pip install pyarrow
+pip install google-cloud-bigquery
+pip install pandas-gbq
